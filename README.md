@@ -1,6 +1,6 @@
 # 📊 Stock Market Analysis and Forecasting Dashboard
 
-![banner](https://raw.githubusercontent.com/YOUR_USERNAME/collegedunia-project/main/assets/banner.png)
+![banner](https://github.com/sonusinha1707/Stock_Market_Analysis/blob/main/stock_market_analysis.png)
 
 An advanced end-to-end dashboard powered by Python and Power BI to analyze and forecast stock prices for top NASDAQ-100 companies using real-time data and machine learning.
 
